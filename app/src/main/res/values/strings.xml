@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My ApplicationAssignment</string>
+
+    <string name="text1">Get a chance to win world cup tickets to the following matches.Be a match maker and watch a match</string>
+    <string name="text2">#MatchToWatch</string>
+    <string name="text3">0</string>
+    <string name="text4">Matches Made</string>
+    <string name="text5">Matches done are the connections made in matchmaker mode. Invite more friends to get more choices</string>
+    <string name="text6">Match</string>
+    <string name="text7">Winner</string>
+    <string name="text8">Required </string>
+    <string name="text9">Remaining</string>
+</resources>
